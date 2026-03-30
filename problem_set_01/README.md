@@ -39,12 +39,16 @@ Classify pediatric chest X-ray images into **Pneumonia** or **Normal** using Con
 
 ---
 
-## Findings & Evaluation
-- **Model Performance:** The model successfully learns to distinguish between normal and pneumonia-affected lungs.
+## Evaluation
 - **Training Accuracy:** **93%**
 - **Validation Accuracy:** **88%**
 - **Final Test Accuracy:** **87%**
-- **Observation:** Data augmentation effectively reduced overfitting and improved the model's ability to generalize.
+
+   ## Findings
+- *High Classification Power:* Model successfully distinguishes between Pneumonia and Normal X-rays.
+- *Generalization:* Data augmentation (Zoom, Flip, Shear) improved the model's ability to handle unseen data.
+- *Overfitting Control:* Continuous validation monitoring helped in maintaining a balanced learning rate and controlled overfitting.
+- *Real-world Applicability:* The model shows good performance and can be further refined for clinical assistant tools.
 
 ## Usage
 1. Open the `.ipynb` file in Google Colab.

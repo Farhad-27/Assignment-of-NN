@@ -51,6 +51,6 @@ Classify pediatric chest X-ray images into **Pneumonia** or **Normal** using Con
 - *Real-world Applicability:* The model shows good performance and can be further refined for clinical assistant tools.
 
 ## Usage
-1. Open the `.ipynb` file in Google Colab.
+1. Open the Pneumonia_classification.ipynb` file in Google Colab.
 2. Ensure the dataset is loaded and extracted.
 3. Run all cells sequentially to view results and accuracy plots.

@@ -26,7 +26,7 @@ This project aims to predict whether a customer will subscribe to a term deposit
 - No significant overfitting was observed as Training and Validation accuracies are consistent.
 
 ## Usage
-1. Open `code.ipynb` in Google Colab.
+1. Open Bank_marketing.ipynb`in Google Colab.
 2. Upload dataset.
 3. Run all cells sequentially.
 4. View outputs including accuracy, confusion matrix, and ROC curve.

@@ -41,7 +41,7 @@ Classify pediatric chest X-ray images into **Pneumonia** or **Normal** using Con
 
 ## Findings & Evaluation
 - **Model Performance:** The model successfully learns to distinguish between normal and pneumonia-affected lungs.
-- **Training Accuracy:** ~93.00%
+- **Training Accuracy:** **93%**
 - **Validation Accuracy:** **88%**
 - **Final Test Accuracy:** **87%**
 - **Observation:** Data augmentation effectively reduced overfitting and improved the model's ability to generalize.
